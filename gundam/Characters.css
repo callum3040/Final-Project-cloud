@@ -1,0 +1,63 @@
+.u-section-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/1-mobile-suit-gundam-thunderbolt-december-sky-2016-geek-n-rock.jpg")}
+.u-section-1 .u-sheet-1 {min-height: 800px}
+.u-section-1 .u-text-1 {margin: 330px auto 60px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 660px} }
+
+@media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 506px} }
+
+@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 359px} }.u-section-2 .u-sheet-1 {min-height: 500px}
+.u-section-2 .u-layout-wrap-1 {width: 1093px; margin: 60px 0 60px auto}
+.u-section-2 .u-layout-cell-1 {min-height: 430px}
+.u-section-2 .u-container-layout-1 {padding: 30px}
+.u-section-2 .u-image-1 {width: 182px; height: 500px; margin: -50px auto -50px 140px}
+.u-section-2 .u-layout-cell-2 {min-height: 400px}
+.u-section-2 .u-container-layout-2 {padding: 30px}
+.u-section-2 .u-text-1 {margin: 0 auto}
+.u-section-2 .u-text-2 {margin: 20px 0 0} 
+
+@media (max-width: 1199px){ .u-section-2 .u-sheet-1 {min-height: 430px}
+.u-section-2 .u-layout-wrap-1 {position: relative; width: 940px}
+.u-section-2 .u-layout-cell-1 {min-height: 370px; background-position: 50% 50%}
+.u-section-2 .u-layout-cell-2 {min-height: 344px} }
+
+@media (max-width: 991px){ .u-section-2 .u-sheet-1 {min-height: 353px}
+.u-section-2 .u-layout-wrap-1 {width: 720px}
+.u-section-2 .u-layout-cell-1 {min-height: 100px}
+.u-section-2 .u-image-1 {margin-left: 118px}
+.u-section-2 .u-layout-cell-2 {min-height: 100px} }
+
+@media (max-width: 767px){ .u-section-2 .u-sheet-1 {min-height: 580px}
+.u-section-2 .u-layout-wrap-1 {width: 540px}
+.u-section-2 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-2 .u-container-layout-2 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .u-section-2 .u-sheet-1 {min-height: 439px}
+.u-section-2 .u-layout-wrap-1 {width: 340px} }.u-section-3 .u-sheet-1 {min-height: 500px}
+.u-section-3 .u-layout-wrap-1 {width: 1093px; margin: 60px 0 60px auto}
+.u-section-3 .u-layout-cell-1 {min-height: 430px}
+.u-section-3 .u-container-layout-1 {padding: 30px}
+.u-section-3 .u-image-1 {width: 200px; height: 500px; margin: -50px auto -80px 132px}
+.u-section-3 .u-layout-cell-2 {min-height: 400px}
+.u-section-3 .u-container-layout-2 {padding: 30px}
+.u-section-3 .u-text-1 {margin: 0 auto}
+.u-section-3 .u-text-2 {margin: 20px 0 0} 
+
+@media (max-width: 1199px){ .u-section-3 .u-sheet-1 {min-height: 430px}
+.u-section-3 .u-layout-wrap-1 {position: relative; width: 940px}
+.u-section-3 .u-layout-cell-1 {min-height: 370px; background-position: 50% 50%}
+.u-section-3 .u-layout-cell-2 {min-height: 344px} }
+
+@media (max-width: 991px){ .u-section-3 .u-sheet-1 {min-height: 353px}
+.u-section-3 .u-layout-wrap-1 {width: 720px}
+.u-section-3 .u-layout-cell-1 {min-height: 100px}
+.u-section-3 .u-image-1 {margin-left: 100px}
+.u-section-3 .u-layout-cell-2 {min-height: 100px} }
+
+@media (max-width: 767px){ .u-section-3 .u-sheet-1 {min-height: 580px}
+.u-section-3 .u-layout-wrap-1 {width: 540px}
+.u-section-3 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-3 .u-container-layout-2 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .u-section-3 .u-sheet-1 {min-height: 439px}
+.u-section-3 .u-layout-wrap-1 {width: 340px} }
